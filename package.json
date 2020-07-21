@@ -1,0 +1,24 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "a command line prompt that takes inputs to generate a professional readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franamaus/readme-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator",
+    "command-line-input-generator"
+  ],
+  "author": "Theresa Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franamaus/readme-generator/issues"
+  },
+  "homepage": "https://github.com/franamaus/readme-generator#readme"
+}
